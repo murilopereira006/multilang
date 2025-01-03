@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "title": "React i18n 网站",
+    "description": "使用 React 和 i18n 的多语言网站"
+  },
+  "HomePage": {
+    "title": "你好，世界!",
+    "about": "转到关于页面"
+  },
+  "Contact": {
+    "title": "联系我们!",
+    "about": "返回主页"
+  },
+  "Footer": {
+    "footer": "页脚"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "title": "React i18n 웹사이트",
+    "description": "React 과 i18n을 사용한 대여 웹사이트"
+  },
+  "HomePage": {
+    "title": "안녕하세요, 세상!",
+    "about": "소개 페이지로 이동 하세요"
+  },
+  "Contact": {
+    "title": "무시를 밋으세요!",
+    "about": "홈페이지로 돌아가세요"
+  },
+  "Footer": {
+    "footer": "패스터"
+  }
+}

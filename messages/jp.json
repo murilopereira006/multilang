@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "title": "React i18n ウェブサイト",
+    "description": "React と i18n を使用した多言語サイト"
+  },
+  "HomePage": {
+    "title": "こんにちは世界!",
+    "about": "自己紹介ページへ行く"
+  },
+  "Contact": {
+    "title": "お問い合わせ!",
+    "about": "ホームページに戻る"
+  },
+  "Footer": {
+    "footer": "フッター"
+  }
+}

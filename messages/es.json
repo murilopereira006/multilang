@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "title": "Sitio web React i18n",
+    "description": "Sitio web multilingüe con React e i18n"
+  },
+  "HomePage": {
+    "title": "¡Hola, mundo!",
+    "about": "Ir a la página sobre nosotros"
+  },
+  "Contact": {
+    "title": "¡Contáctenos!",
+    "about": "Volver a la página de inicio"
+  },
+  "Footer": {
+    "footer": "Pie de página"
+  }
+}
